@@ -1,2 +1,0 @@
-# My-Activity
-My Activity
